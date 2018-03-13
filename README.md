@@ -2,4 +2,6 @@
 
 This is a suggested soluton to "Reinforcement Learning: An Introduction", second version, written by Richard S. Sutton and Andrew G. Barto.
 
+Please download it to read it. 
+
 All suggestions are welcome. 
